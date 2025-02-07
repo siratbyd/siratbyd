@@ -1,5 +1,5 @@
 # 💫 About Me:
-An electrical and electronics engineering graduate who is working as software test automation engineer and QA.
+An electrical and electronics engineering graduate who is working as software test automation and QA engineer.
 
 
 ## 🌐 Socials:
